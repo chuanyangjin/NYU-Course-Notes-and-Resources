@@ -15,6 +15,7 @@ Special thanks to my friend Rex Liu who contributes to writing the texts.
 - [MATH-UA 262 Ordinary Differential Equations](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20262%20Ordinary%20Differential%20Equations)
 - [MATH-UA 325 Analysis](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20325%20Analysis)
 - [MATH-UA 343 Algebra](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20343%20Algebra)
+- [MATH-GA 2450 Complex Variables I](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202450%20Complex%20Variables%20I)
 - [MATH-GA 2902 Stochastic Calculus](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202902%20Stochastic%20Calculus)
 - [MATH-GA 2911 Probability Theory I](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202911%20Probability%20Theory%20I)
 
