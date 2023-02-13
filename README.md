@@ -1,4 +1,4 @@
-# NYU Course Notes & Resources ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fchuanyangjin%2FNYU-Course-Notes-and-Resources&labelColor=%232ccce4&countColor=%23697689&style=flat)
+# NYU Course Notes & Resources ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fchuanyangjin%2FNYU-Course-Notes-and-Resources&labelColor=%23ba68c8&countColor=%23263759&style=flat-square&labelStyle=upper)
 This repository contains some notes and resources for NYU Mathmatics and Computer Science courses. We hope it will be helpful during your learning and review, or provide some knowledge when you are struggling with which course to choose.
 Special thanks to my friends Rex Liu, Maosen Tang and Yuqian Zhang who contribute some materials.
 
