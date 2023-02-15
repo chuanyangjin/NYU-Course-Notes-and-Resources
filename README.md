@@ -17,6 +17,7 @@ Special thanks to my friends Rex Liu, Maosen Tang, Zijin Hu and Yuqian Zhang who
 - [MATH-UA 343 Algebra](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20343%20Algebra)
 - [MATH-GA 2020 Numerical Methods II](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202020%20Numerical%20Methods%20II)
 - [MATH-GA 2450 Complex Variables I](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202450%20Complex%20Variables%20I)
+- [MATH-GA 2830 Mathematical Statistics](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202830%20Mathematical%20Statistics)
 - [MATH-GA 2902 Stochastic Calculus](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202902%20Stochastic%20Calculus)
 - [MATH-GA 2911 Probability Theory I](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202911%20Probability%20Theory%20I)
 
