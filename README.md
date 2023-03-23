@@ -27,6 +27,7 @@ Special thanks to my friends Rex Liu, Maosen Tang, Zijin Hu and Yuqian Zhang who
 - [CSCI-UA 201 Computer Systems Organization](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-UA%20201%20Computer%20Systems%20Organization)
 - [CSCI-UA 202 Operating Systems](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-UA%20202%20Operating%20Systems)
 - [CSCI-UA 310 Basic Algorithms](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-UA%20310%20Basic%20Algorithms)
+- [CSCI-UA 453 Theory of Computation](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-UA%20453%20Theory%20of%20Computation)
 - [CSCI-UA 473 Machine Learning](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-UA%20473%20Machine%20Learning)
 - [CSCI-UA 480 Introduction to Robot Intelligence](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-UA%20480%20Introduction%20to%20Robot%20Intelligence)
 - [CSCI-GA 2271 Computer Vision](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-GA%202271%20Computer%20Vision)
