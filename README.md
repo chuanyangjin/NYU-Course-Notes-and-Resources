@@ -1,6 +1,7 @@
 # NYU Course Notes & Resources ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fchuanyangjin%2FNYU-Course-Notes-and-Resources&labelColor=%23ba68c8&countColor=%23263759&style=flat-square&labelStyle=upper)
-This repository contains some notes and resources for NYU Mathmatics and Computer Science courses. We hope it will be helpful during your learning and review, or provide some knowledge when you are struggling with which course to choose.
-Special thanks to my friends Rex Liu, Maosen Tang, Zijin Hu and Yuqian Zhang who contribute some materials.
+This repository features a collection of notes and resources for NYU Mathematics and Computer Science courses. 
+We hope these materials will be helpful as you learn, review, or decide which course to take. 
+A special thank you to my friends Rex Liu, Maosen Tang, Zijin Hu, and Yuqian Zhang for their valuable contributions.
 
 ## Mathmatics
 - [MATH-UA 120 Discrete Mathematics](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20120%20Discrete%20Mathematics)
