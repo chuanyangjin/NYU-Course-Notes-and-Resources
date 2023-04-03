@@ -16,6 +16,7 @@ A special thank you to my friends Rex Liu, Maosen Tang, Zijin Hu, and Yuqian Zha
 - [MATH-UA 262 Ordinary Differential Equations](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20262%20Ordinary%20Differential%20Equations)
 - [MATH-UA 325 Analysis](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20325%20Analysis)
 - [MATH-UA 343 Algebra](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20343%20Algebra)
+- [MATH-GA 2010 Numerical Methods I](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202010%20Numerical%20Methods%20I)
 - [MATH-GA 2020 Numerical Methods II](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202020%20Numerical%20Methods%20II)
 - [MATH-GA 2450 Complex Variables I](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202450%20Complex%20Variables%20I)
 - [MATH-GA 2704 Applied Stochastic Analysis](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202704%20Applied%20Stochastic%20Analysis)
