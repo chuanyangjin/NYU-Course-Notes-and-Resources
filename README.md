@@ -32,7 +32,7 @@ A special thank you to my friends Rex Liu, Maosen Tang, Zijin Hu, and Yuqian Zha
 - [CSCI-UA 453 Theory of Computation](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-UA%20453%20Theory%20of%20Computation)
 - [CSCI-UA 473 Machine Learning](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-UA%20473%20Machine%20Learning)
 - [CSCI-UA 480 Special Topics - Introduction to Robot Intelligence](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-UA%20480%20Special%20Topics%20-%20Introduction%20to%20Robot%20Intelligence)
-- [CSCI-UA 480 Special Topics - Natural Language Processing](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-UA%20480%20Special%20Topics%20-%20Natural%20Language%Processing)
+- [CSCI-UA 480 Special Topics - Natural Language Processing](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-UA%20480%20Special%20Topics%20-%20Natural%20Language%20Processing)
 - [CSCI-GA 2271 Computer Vision](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-GA%202271%20Computer%20Vision)
 - [CSCI-GA 2565 Machine Learning](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-GA%202565%20Machine%20Learning)
 - [CSCI-GA 2566 Foundations of Machine Learning](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-GA%202566%20Foundations%20of%20Machine%20Learning)
