@@ -38,3 +38,4 @@ A special thank you to my friends Rex Liu, Maosen Tang, Zijin Hu, and Yuqian Zha
 - [CSCI-GA 2566 Foundations of Machine Learning](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-GA%202566%20Foundations%20of%20Machine%20Learning)
 - [CSCI-GA 2572 Deep Learning](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-GA%202572%20Deep%20Learning)
 - [CSCI-GA 2590 Natural Language Processing](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-GA%202590%20Natural%20Language%20Processing)
+- [CSCI-GA 3033 Special Topics - Mathematics of Deep Learning](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-GA%203033%20Special%20Topics%20-%20Mathematics%20of%20Deep%20Learning)
