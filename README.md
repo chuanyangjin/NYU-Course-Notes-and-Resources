@@ -20,6 +20,7 @@ A special thank you to my friends Rex Liu, Maosen Tang, Zijin Hu, and Yuqian Zha
 - [MATH-GA 2020 Numerical Methods II](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202020%20Numerical%20Methods%20II)
 - [MATH-GA 2450 Complex Variables I](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202450%20Complex%20Variables%20I)
 - [MATH-GA 2704 Applied Stochastic Analysis](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202704%20Applied%20Stochastic%20Analysis)
+- [MATH-GA 2821 Mathematical Tools for Data Science](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202821%20Mathematical%20Tools%20for%20Data%20Science)
 - [MATH-GA 2830 Mathematical Statistics](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202830%20Mathematical%20Statistics)
 - [MATH-GA 2902 Stochastic Calculus](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202902%20Stochastic%20Calculus)
 - [MATH-GA 2911 Probability Theory I](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202911%20Probability%20Theory%20I)
@@ -38,4 +39,5 @@ A special thank you to my friends Rex Liu, Maosen Tang, Zijin Hu, and Yuqian Zha
 - [CSCI-GA 2566 Foundations of Machine Learning](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-GA%202566%20Foundations%20of%20Machine%20Learning)
 - [CSCI-GA 2572 Deep Learning](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-GA%202572%20Deep%20Learning)
 - [CSCI-GA 2590 Natural Language Processing](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-GA%202590%20Natural%20Language%20Processing)
+- [CSCI-GA 2945 Advanced Topics in Numerical Analysis](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-GA%202945%20Advanced%20Topics%20in%20Numerical%20Analysis)
 - [CSCI-GA 3033 Special Topics - Mathematics of Deep Learning](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/CSCI-GA%203033%20Special%20Topics%20-%20Mathematics%20of%20Deep%20Learning)
