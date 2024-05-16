@@ -1,8 +1,8 @@
 # NYU Course Notes & Resources ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fchuanyangjin%2FNYU-Course-Notes-and-Resources&labelColor=%23ba68c8&countColor=%23263759&style=flat-square&labelStyle=upper)
-This repository contains a collection of notes and resources for Mathematics and Computer Science courses at NYU. 
-We hope these materials will be helpful as you learn, review, or choose your courses. 
+This repository contains a collection of notes and resources for Mathematics and Computer Science courses at NYU.
+We hope you find these materials useful as you learn, review, or select your courses.
 
-🥳 2024/5/15: I've graduated from NYU! Our repo has now reached 16k visitors!
+🥳 2024/5/15: I graduated from NYU! Our repo has now reached 16k visitors!
 
 🙌 We highly welcome valuable contributions. Special thanks to Rex Liu, Maosen Tang, Zijin Hu, and Yuqian Zhang for their significant  contributions.
 
