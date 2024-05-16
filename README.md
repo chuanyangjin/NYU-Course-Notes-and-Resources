@@ -18,6 +18,7 @@ A special thank you to my friends Rex Liu, Maosen Tang, Zijin Hu, and Yuqian Zha
 - [MATH-UA 325 Analysis](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20325%20Analysis)
 - [MATH-UA 343 Algebra](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20343%20Algebra)
 - [MATH-GA 2010 Numerical Methods I](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202010%20Numerical%20Methods%20I)
+- [MATH-GA 2012 Convex and Nonsmooth Optimization](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202012%20Convex%20and%20Nonsmooth%20Optimization)
 - [MATH-GA 2020 Numerical Methods II](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202020%20Numerical%20Methods%20II)
 - [MATH-GA 2450 Complex Variables I](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202450%20Complex%20Variables%20I)
 - [MATH-GA 2704 Applied Stochastic Analysis](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202704%20Applied%20Stochastic%20Analysis)
